@@ -1,0 +1,32 @@
+.wrapper {
+  background-color: #ded6d6;
+  padding: 10px;
+  width: 30%;
+}
+.container {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.container:hover {
+  cursor: pointer;
+}
+
+.block {
+  background-color: #baa;
+  padding: 10px;
+}
+
+.dropdownicon {
+  position: relative;
+  left: 5px;
+  top: 5px;
+}
+
+.button {
+  width: 95%;
+  padding: 15px 0;
+  border: 1px solid black;
+  outline: none;
+  margin-bottom: 10px;
+}
